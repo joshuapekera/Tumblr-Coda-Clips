@@ -1,3 +1,17 @@
 h1. Coda plugin and clips for Tumblr
 
-"Coda":http://panic.com/coda/ plugin and clips group for creating "Tumblr":http://www.tumblr.com/ themes based on "Ben Gold's Tumblr Textmate Bundle":http://github.com/bengold/tumblr-themes.tmbundle.
+bq. "Coda":http://panic.com/coda/ plugin and clips group for creating "Tumblr":http://www.tumblr.com/ themes based on "Ben Gold's Tumblr Textmate Bundle":http://github.com/bengold/tumblr-themes.tmbundle.
+
+h2. Release Notes
+
+h3. [1.3] 09/22/10
+
+* Updating to most recent release
+* Added new menu items
+* Added new clips
+
+h3. ...
+
+h3. [1.1] 04/05/10 
+
+* Initial release
