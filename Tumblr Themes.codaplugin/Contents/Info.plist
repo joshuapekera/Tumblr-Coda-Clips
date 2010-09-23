@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>CodaScriptPlugIn</string>
+	<key>CFBundleIconFile</key>
+	<string>plug-in</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.panic.CodaScriptPlugIn</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.1</string>
+	<key>CodaPlugInMinimumAPIVersion</key>
+	<string>3</string>
+	<key>NSPrincipalClass</key>
+	<string>CodaScriptPlugIn</string>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>fallbackInput</key>
+			<string>word</string>
+			<key>input</key>
+			<string>none</string>
+			<key>keyEquivalentConflict</key>
+			<false/>
+			<key>name</key>
+			<string>View Tumblr theme docs</string>
+			<key>output</key>
+			<string>discard</string>
+			<key>script</key>
+			<string>script</string>
+			<key>uuid</key>
+			<string>E2A55C14-E343-4592-B85B-BDA5C6F270DF</string>
+		</dict>
+		<dict>
+			<key>fallbackInput</key>
+			<string>word</string>
+			<key>input</key>
+			<string>none</string>
+			<key>keyEquivalentConflict</key>
+			<false/>
+			<key>name</key>
+			<string>Upload a static file</string>
+			<key>output</key>
+			<string>showAsHTML</string>
+			<key>script</key>
+			<string>script</string>
+			<key>uuid</key>
+			<string>B32EFF5E-1753-49EF-B5AE-1E1F5ED71AC3</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>fallbackInput</key>
+					<string>word</string>
+					<key>input</key>
+					<string>none</string>
+					<key>keyEquivalentConflict</key>
+					<false/>
+					<key>name</key>
+					<string>Help: Twitter integration example</string>
+					<key>output</key>
+					<string>showAsHTML</string>
+					<key>script</key>
+					<string>script</string>
+					<key>uuid</key>
+					<string>BCE16072-291A-4821-A22A-32D330A9AADA</string>
+				</dict>
+			</array>
+			<key>name</key>
+			<string>Twitter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
