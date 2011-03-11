@@ -4,6 +4,13 @@ bq. "Coda":http://panic.com/coda/ plugin and clips group for creating "Tumblr":h
 
 h2. Release Notes
 
+h3. [1.4] 03/10/11
+
+* Added Staff Blog link.
+* Created Addons group that contains links for generating a Tumblr Counter, adding the Streampad Player, and Adding Disqus comments.
+* Moved Static file command to bottom with a new command that copies the entire document to the clipboard and opens up the New Theme Submission page.
+* Added variables for Jump Pagination
+
 h3. [1.3] 09/22/10
 
 * Updating to most recent release
